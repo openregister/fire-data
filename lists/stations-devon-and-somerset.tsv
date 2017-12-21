@@ -1,0 +1,86 @@
+row	name	number	road	postcode	duty	coresponder
+1	Appledore	03	Myrtle Street	EX39 1PH	Retained	No
+2	Ashburton	19	Eastern Road	TQ13 7AP	Retained	No
+3	Axminster	34	Lime Close	EX13 5BB	Retained	Yes
+4	Bampton	35	Barnhay	EX16 9NB	Retained	No
+5	Barnstaple	01	North Road	EX31 1PA	Wholetime & Retained	No
+6	Bere Alston	52	Station Road	PL20 7EN	Retained	No
+7	Bideford	04	Clovelly Road	EX39 3BH	Retained	No
+8	Bovey Tracey	20	Marlborough Terrace	TQ13 9AL	Retained	No
+9	Braunton	05	Chaloners Road	EX33 2HE	Retained	No
+10	Bridgwater	62	Salmon Parade	TA6  5JT	Wholetime & Retained	No
+11	Brixham	21	Bolton Street	TQ5 9DJ	Retained	No
+12	Buckfastleigh	22	Bossell Road	TQ11 0DD	Retained	No
+13	Budleigh Salterton	36	Station Road	EX9 6RJ	Retained	No
+14	Burnham on Sea	63	Marine Drive	TA8 1NQ	Retained	No
+15	Camels Head	48	Ferndale Rd Plymouth	PL2 2EL	Wholetime	No
+16	Castle Cary	74	Church Street	BA7 7EL	Retained	No
+17	Chagford	23	Lower Street	TQ13 8AZ	Retained	Yes
+18	Chard	75	Avishayes Road	TA20 1NZ	Retained	No
+19	Cheddar	76	The Hayes	BS27 3AW	Retained	Yes
+20	Chulmleigh	06	New Street	EX18 7DZ	Retained	Yes
+21	Colyton	37	South Street	EX24 6PS	Retained	No
+22	Combe Martin	07	High Street	EX34 0EB	Retained	Yes
+23	Crediton	38	Charlotte Street	EX17 3BJ	Retained	Yes
+24	Crewkerne	77	Blacknell Lane	TA18 7HE	Retained	No
+25	Crownhill	49	Crownhill Rd Plymouth	PL5 3AN	Wholetime & Retained	No
+26	Cullompton	39	Tiverton Road	EX15 1HS	Retained	No
+27	Dartmouth	24	College Way	TQ6 9NN	Retained	No
+28	Dawlish	25	Oak Hill	EX7 9QZ	Retained	Yes
+29	Dulverton	64	St Cuthberts Way	TA22 9HL	Retained	Yes
+30	Exeter Danes Castle	32	Howell Road	EX4 4LP	Wholetime & Retained	No
+31	Exeter Middlemoor	59	Sidmouth Road	EX2 7AP	Wholetime	No
+32	Exmouth	33	Salterton Road	EX8 2NR	Wholetime & Retained	No
+33	Frome	78	Keyford	BA11 1JG	Retained	No
+34	Glastonbury	65	George Street	BA6 9JH	Retained	No
+35	Greenbank	50	Longfield Place Plymouth	PL4 7JQ	Wholetime	No
+36	Hartland	08	North Street	EX39 6BE	Retained	Yes
+37	Hatherleigh	09	Mill Meadow	EX20 3JA	Retained	Yes
+38	Holsworthy	10	Western Road	EX22 6DH	Retained	Yes
+39	Honiton	40	Dowell Street	EX14 1NB	Retained	No
+40	Ilfracombe	02	Marlborough Road	EX34 8JL	Retained	No
+41	Ilminster	79	Blackdown View	TA19 0BB	Retained	No
+42	Ivybridge	53	Ermington Road	PL21 9ES	Retained	Yes
+43	Kingsbridge	26	Duncombe Street	TQ7 2XT	Retained	No
+44	Kingston	54	The Village	TQ7 4PH	Volunteer	No
+45	Lundy Island	85	Lundy Island	EX39 2LY	Volunteer	No
+46	Lynton	11	Burvill Street	EX35 6HA	Retained	Yes
+47	Martock	80	Coat Road	TA12 6EX	Retained	No
+48	Minehead	66	Hopcott Road	TA24 6DJ	Retained	No
+49	Modbury	55	Dark Lane	PL21 0RD	Retained	No
+50	Moretonhampstead	27	Station Road	TQ13 8SA	Retained	Yes
+51	Nether Stowey	67	Bannesson Road	TA5 1NW	Retained	Yes
+52	Newton Abbot	28	The Avenue	TQ12 2DR	Retained	No
+53	North Tawton	12	Barton Street	EX20 2HL	Retained	No
+54	Okehampton	13	North Road	EX20 1BE	Retained	No
+55	Ottery St Mary	41	Canaan Way	EX11 1EY	Retained	No
+56	Paignton	18	Cecil Road	TQ3 2SH	Wholetime & Retained	No
+57	Plympton	47	Glen Road	PL7 2XT	Retained	No
+58	Plymstock	51	Dean Hill	PL9 9AA	Retained	No
+59	Porlock	68	Porlock	TA24 8NS	Retained	Yes
+60	Princetown	56	Station Road	PL20 6QX	Retained	Yes
+61	Salcombe	29	Gould Road	TQ8 8DU	Retained	No
+62	Seaton	42	Harepath Road	EX12 2AA	Retained	Yes
+63	Shepton Mallet	81	Board Cross	BA4  5DX	Retained	No
+64	Sidmouth	43	Woolbrook Road	EX10 9UU	Retained	No
+65	Somerton	82	Etsome Terrace	TA11 6LY	Retained	No
+66	South Molton	14	North Street	EX36 3AN	Retained	No
+67	Street	69	Cranhill Road	BA16 0BZ	Retained	No
+68	Taunton	61	Lisieux Way	TA1 2LB	Wholetime & Retained	No
+69	Tavistock	57	Abbey Rise	PL19 9BB	Retained	No
+70	Teignmouth	30	Higher Brook Street	TQ14 8HY	Retained	No
+71	Tiverton	44	Wellbrook Street	EX16 5BP	Retained	No
+72	Topsham	45	Fore Street	EX3 0HF	Retained	No
+73	Torquay	17	Newton Road	TQ2 7AD	Wholetime & Retained	No
+74	Torrington	15	Calf Street	EX38 8EG	Retained	No
+75	Totnes	31	Coronation Road	TQ9 5DF	Retained	No
+76	Clyst St George	60	Service Headquarters	EX3 0NW	Wholetime	No
+77	Wellington	70	North Street	TA21 8LZ	Retained	No
+78	Wells	83	Burcott Road	BA5 2EF	Retained	No
+79	Williton	71	North Road	TA4 4SN	Retained	Yes
+80	Wincanton	84	Bennetts Field	BA9 9DT	Retained	No
+81	Witheridge	46	Fore Street	EX16 8AH	Retained	No
+82	Wiveliscombe	72	North Street	TA4 2LB	Retained	No
+83	Woolacombe	16	Barton Road	EX34 7BA	Retained	Yes
+84	Yelverton	58	Princetown Road	PL20 6NJ	Retained	No
+85	Yeovil	73	Reckleford	BA20 1NZ	Wholetime & Retained	No
