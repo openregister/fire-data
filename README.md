@@ -21,3 +21,5 @@ Adviser](https://www.gov.uk/government/organisations/chief-fire-and-rescue-advis
 PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
 * Cambridgeshire information is on their [web
   pages](http://www.cambsfire.gov.uk/find-a-fire-station-393.aspx)
+* Derbyshire fire station information in the 'land and assets' spreadsheet
+    [here](http://www.derbys-fire.gov.uk/about-us-our-vision/lists-and-registers/)
