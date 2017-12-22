@@ -23,3 +23,7 @@ PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
   pages](http://www.cambsfire.gov.uk/find-a-fire-station-393.aspx)
 * Derbyshire fire station information in the 'land and assets' spreadsheet
     [here](http://www.derbys-fire.gov.uk/about-us-our-vision/lists-and-registers/)
+* Essex fire station information only in a custom layer on Google Maps
+    [here](http://www.essex-fire.gov.uk/locations/)
+* Hertfordshire fire station information is on their
+    [web pages](https://www.hertfordshire.gov.uk/services/fire-and-rescue/fire-station-locations/fire-station-locations.aspx)
