@@ -31,3 +31,5 @@ PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
   files](http://www.kent.fire-uk.org/about-us/fire-stations/)
 * Leicester fire station information is in a
   [pdf](http://www.leicestershire-fire.gov.uk/your-fire-service/who-we-are/locations-and-contacts/)
+* Lincolnshire fire station information is only in a custom layer on Google Maps
+  [here](https://www.lincolnshire.gov.uk/lincolnshire-fire-and-rescue/fire-stations)
