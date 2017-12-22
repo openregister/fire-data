@@ -27,3 +27,5 @@ PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
     [here](http://www.essex-fire.gov.uk/locations/)
 * Hertfordshire fire station information is on their
     [web pages](https://www.hertfordshire.gov.uk/services/fire-and-rescue/fire-station-locations/fire-station-locations.aspx)
+* Kent fire station information is in [csv/xlsx
+  files](http://www.kent.fire-uk.org/about-us/fire-stations/)
