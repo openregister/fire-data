@@ -33,3 +33,16 @@ PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
   [pdf](http://www.leicestershire-fire.gov.uk/your-fire-service/who-we-are/locations-and-contacts/)
 * Lincolnshire fire station information is only in a custom layer on Google Maps
   [here](https://www.lincolnshire.gov.uk/lincolnshire-fire-and-rescue/fire-stations)
+
+## Dump kml from Google Maps
+
+https://stackoverflow.com/questions/25595507/google-maps-engine-export-kml-curl/25595632#25595632
+
+Find the `mid` parameter in the URL, and then place it in this URL where it says
+`${ID}`
+
+`https://mapsengine.google.com/map/kml?mid=${ID}`
+
+For example:
+
+`https://mapsengine.google.com/map/kml?mid=1MSXN6wVfwffIM-uL367oqFKbJkY`
