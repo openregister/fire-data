@@ -35,6 +35,9 @@ PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
   [here](https://www.lincolnshire.gov.uk/lincolnshire-fire-and-rescue/fire-stations)
 * Norfolk fire station information is on their
   [web pages](http://www.norfolkfireservice.gov.uk/nfrs/your-local-station)
+* Northamptonshire fire station information is only in a custom layer on Google
+  Maps
+  [here](http://www3.northamptonshire.gov.uk/councilservices/northamptonshire-fire-and-rescue-service/fire-stations/Pages/default.aspx)
 
 ## Dump kml from Google Maps
 
