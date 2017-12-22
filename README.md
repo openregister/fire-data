@@ -33,6 +33,8 @@ PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
   [pdf](http://www.leicestershire-fire.gov.uk/your-fire-service/who-we-are/locations-and-contacts/)
 * Lincolnshire fire station information is only in a custom layer on Google Maps
   [here](https://www.lincolnshire.gov.uk/lincolnshire-fire-and-rescue/fire-stations)
+* Norfolk fire station information is on their
+  [web pages](http://www.norfolkfireservice.gov.uk/nfrs/your-local-station)
 
 ## Dump kml from Google Maps
 
