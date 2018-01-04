@@ -38,6 +38,9 @@ PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
 * Northamptonshire fire station information is only in a custom layer on Google
   Maps
   [here](http://www3.northamptonshire.gov.uk/councilservices/northamptonshire-fire-and-rescue-service/fire-stations/Pages/default.aspx)
+* Nottinghamshire fire station information can be clicked through [here](https://www.notts-fire.gov.uk/our-stations)
+* Suffolk fire station information can be clicked through the sidebar [here](https://www.suffolk.gov.uk/suffolk-fire-and-rescue-service/map-of-fire-stations-in-suffolk/aldeburgh-fire-station/).
+* Hampshire fire station information can be clicked through [here](https://www.hantsfire.gov.uk/about-us/who-we-are/stations/).
 
 ## Dump kml from Google Maps
 
