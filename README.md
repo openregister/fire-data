@@ -2,6 +2,10 @@
 
 A repository of data for registers of UK fire authorities and fire stations.
 
+On 2018-02-08 the home office published a list of fire stations on GOV.UK
+https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables.
+These haven't yet been brought into this repository.
+
 The new regulator (as of June/July 2017) is [Her Majesty's Inspectorate of
 Constabular and Fire & Rescue
 Services](https://www.justiceinspectorates.gov.uk/hmicfrs/fire-and-rescue-services/).
