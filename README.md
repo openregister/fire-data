@@ -21,6 +21,8 @@ data](https://www.gov.uk/government/publications/fire-and-rescue-authority-procu
 [Chief Fire and Rescue
 Adviser](https://www.gov.uk/government/organisations/chief-fire-and-rescue-adviser-unit)
 
+[Fire Authority statistics](https://www.gov.uk/government/statistics/fire-and-rescue-authorities-operational-statistics-bulletin-for-england-2015-to-2016)
+
 * Bedforshire fire station information is held in [individual
 PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
 * Cambridgeshire information is on their [web
