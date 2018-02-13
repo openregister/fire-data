@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 fire-and-rescue-service	name	start-date	end-date
 001	Avon Fire and Rescue Service		
 002	Bedfordshire Fire and Rescue Service		
@@ -44,3 +45,51 @@ fire-and-rescue-service	name	start-date	end-date
 043	West Midlands Fire and Rescue Service		
 044	West Sussex Fire and Rescue Service		
 045	West Yorkshire Fire and Rescue Service		
+=======
+fire-authority	name	 government-domain	start-date	end-date
+1	Avon Fire and Rescue Service	3918		
+2	Bedfordshire Fire and Rescue Service			
+3	Buckinghamshire Fire and Rescue Service	4152		
+4	Cambridgeshire Fire and Rescue Service	4212		
+5	Cheshire Fire and Rescue Service	4318		
+6	Cleveland Fire Brigade	4404		
+7	Cornwall Fire and Rescue Service	4504		
+8	County Durham and Darlington Fire and Rescue Service	4644		
+9	Cumbria Fire and Rescue Service	4589		
+10	Derbyshire Fire and Rescue Service	4664		
+11	Devon and Somerset Fire and Rescue Service	4763		
+12	Dorset and Wiltshire Fire and Rescue Service			
+13	East Sussex Fire and Rescue Service			
+14	Essex County Fire and Rescue Service	4961		
+15	Gloucestershire Fire and Rescue Service	5154		
+16	Greater Manchester Fire and Rescue Service	5875		
+17	Hampshire Fire and Rescue Service	5271		
+18	Hereford and Worcester Fire and Rescue Service			
+19	Hertfordshire Fire and Rescue Service	12806		
+20	Humberside Fire and Rescue Service	5448		
+21	Isle of Wight Fire and Rescue Service			
+22	Isles of Scilly Fire and Rescue Service	6757		
+23	Kent Fire and Rescue Service			
+24	Lancashire Fire and Rescue Service			
+25	Leicestershire Fire and Rescue Service	5717		
+26	Lincolnshire Fire and Rescue Service	5759		
+27	London Fire Brigade	5799		
+28	Merseyside Fire and Rescue Service	5909		
+29	Norfolk Fire and Rescue Service	6173		
+30	North Yorkshire Fire and Rescue Service	6239		
+31	Northamptonshire Fire and Rescue Service	6186		
+32	Northumberland Fire and Rescue Service	6222		
+33	Nottinghamshire Fire and Rescue Service	6249		
+34	Oxfordshire Fire and Rescue Service	6381		
+35	Royal Berkshire Fire and Rescue Service			
+36	Shropshire Fire and Rescue Service	6886		
+37	South Yorkshire Fire and Rescue Service	7180		
+38	Staffordshire Fire and Rescue Service	7024		
+39	Suffolk Fire and Rescue Service	11963		
+40	Surrey Fire and Rescue Service	7127		
+41	Tyne and Wear Fire and Rescue Service			
+42	Warwickshire Fire and Rescue Service	7485		
+43	West Midlands Fire and Rescue Service			
+44	West Sussex Fire and Rescue Service	7561		
+45	West Yorkshire Fire and Rescue Service	7565		
+>>>>>>> Stashed changes
