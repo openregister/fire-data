@@ -1,46 +1,46 @@
-fire-authority	name	website	start-date	end-date
-001	Avon Fire and Rescue Service	https://www.avonfire.gov.uk		
-002	Bedfordshire Fire and Rescue Service	https://www.bedsfire.com		
-003	Buckinghamshire Fire and Rescue Service	http://bucksfire.gov.uk		
-004	Cambridgeshire Fire and Rescue Service	http://www.cambsfire.gov.uk		
-005	Cheshire Fire and Rescue Service	http://www.cheshirefire.gov.uk		
-006	Cleveland Fire Brigade	http://www.clevelandfire.gov.uk		
-007	Cornwall Fire and Rescue Service	https://www.cornwall.gov.uk/community-and-living/cornwall-fire-and-rescue-service-homepage		
-008	County Durham and Darlington Fire and Rescue Service	https://www.ddfire.gov.uk		
-009	Cumbria Fire and Rescue Service	http://www.cumbria.gov.uk/cumbriafire		
-010	Derbyshire Fire and Rescue Service	http://www.derbys-fire.gov.uk		
-011	Devon and Somerset Fire and Rescue Service	http://www.dsfire.gov.uk		
-012	Dorset and Wiltshire Fire and Rescue Service	https://www.dwfire.org.uk		
-013	East Sussex Fire and Rescue Service	https://www.esfrs.org/		
-014	Essex County Fire and Rescue Service	http://www.essex-fire.gov.uk		
-015	Gloucestershire Fire and Rescue Service	http://www.glosfire.gov.uk		
-016	Greater Manchester Fire and Rescue Service	http://www.manchesterfire.gov.uk		
-017	Hampshire Fire and Rescue Service	https://www.hantsfire.gov.uk		
-018	Hereford and Worcester Fire and Rescue Service	https://www.hwfire.org.uk		
-019	Hertfordshire Fire and Rescue Service	https://www.hertfordshire.gov.uk/services/fire-and-rescue/fire-rescue-and-being-prepared.aspx		
-020	Humberside Fire and Rescue Service	http://www.humbersidefire.gov.uk		
-021	Isle of Wight Fire and Rescue Service	https://www.iwight.com/Residents/Fire-and-Rescue-Service		
-022	Isles of Scilly Fire and Rescue Service	http://www.scilly.gov.uk/community-safety/fire-rescue		
-023	Kent Fire and Rescue Service	http://www.kent.fire-uk.org		
-024	Lancashire Fire and Rescue Service	http://www.lancsfirerescue.org.uk		
-025	Leicestershire Fire and Rescue Service	http://www.leicestershire-fire.gov.uk		
-026	Lincolnshire Fire and Rescue Service	https://www.lincolnshire.gov.uk/lincolnshire-fire-and-rescue		
-027	London Fire Brigade	http://www.london-fire.gov.uk		
-028	Merseyside Fire and Rescue Service	https://www.merseyfire.gov.uk/aspx/pages/Default2.asp		
-029	Norfolk Fire and Rescue Service	http://www.norfolkfireservice.gov.uk/nfrs		
-030	North Yorkshire Fire and Rescue Service	http://www.northyorksfire.gov.uk		
-031	Northamptonshire Fire and Rescue Service	http://www3.northamptonshire.gov.uk/councilservices/northamptonshire-fire-and-rescue-service		
-032	Northumberland Fire and Rescue Service	http://www.northumberland.gov.uk/Fire.aspx		
-033	Nottinghamshire Fire and Rescue Service	https://www.notts-fire.gov.uk		
-034	Oxfordshire Fire and Rescue Service	https://www.oxfordshire.gov.uk/cms/public-site/fire-and-rescue-service		
-035	Royal Berkshire Fire and Rescue Service	https://www.rbfrs.co.uk		
-036	Shropshire Fire and Rescue Service	https://www.shropshirefire.gov.uk		
-037	South Yorkshire Fire and Rescue Service	http://www.syfire.gov.uk		
-038	Staffordshire Fire and Rescue Service	http://www.staffordshirefire.gov.uk		
-039	Suffolk Fire and Rescue Service	https://www.suffolk.gov.uk/suffolk-fire-and-rescue-service		
-040	Surrey Fire and Rescue Service	https://www.surreycc.gov.uk/people-and-community/surrey-fire-and-rescue		
-041	Tyne and Wear Fire and Rescue Service	http://www.twfire.org		
-042	Warwickshire Fire and Rescue Service	http://www.warwickshire.gov.uk/organisationnav/fire-and-rescue		
-043	West Midlands Fire and Rescue Service	https://www.wmfs.net		
-044	West Sussex Fire and Rescue Service	https://www.westsussex.gov.uk/fire-emergencies-and-crime/west-sussex-fire-rescue-service		
-045	West Yorkshire Fire and Rescue Service	http://www.westyorksfire.gov.uk		
+fire-and-rescue-service	name	start-date	end-date
+001	Avon Fire and Rescue Service		
+002	Bedfordshire Fire and Rescue Service		
+003	Buckinghamshire Fire and Rescue Service		
+004	Cambridgeshire Fire and Rescue Service		
+005	Cheshire Fire and Rescue Service		
+006	Cleveland Fire Brigade		
+007	Cornwall Fire and Rescue Service		
+008	County Durham and Darlington Fire and Rescue Service		
+009	Cumbria Fire and Rescue Service		
+010	Derbyshire Fire and Rescue Service		
+011	Devon and Somerset Fire and Rescue Service		
+012	Dorset and Wiltshire Fire and Rescue Service		
+013	East Sussex Fire and Rescue Service		
+014	Essex County Fire and Rescue Service		
+015	Gloucestershire Fire and Rescue Service		
+016	Greater Manchester Fire and Rescue Service		
+017	Hampshire Fire and Rescue Service		
+018	Hereford and Worcester Fire and Rescue Service		
+019	Hertfordshire Fire and Rescue Service		
+020	Humberside Fire and Rescue Service		
+021	Isle of Wight Fire and Rescue Service		
+022	Isles of Scilly Fire and Rescue Service		
+023	Kent Fire and Rescue Service		
+024	Lancashire Fire and Rescue Service		
+025	Leicestershire Fire and Rescue Service		
+026	Lincolnshire Fire and Rescue Service		
+027	London Fire Brigade		
+028	Merseyside Fire and Rescue Service		
+029	Norfolk Fire and Rescue Service		
+030	North Yorkshire Fire and Rescue Service		
+031	Northamptonshire Fire and Rescue Service		
+032	Northumberland Fire and Rescue Service		
+033	Nottinghamshire Fire and Rescue Service		
+034	Oxfordshire Fire and Rescue Service		
+035	Royal Berkshire Fire and Rescue Service		
+036	Shropshire Fire and Rescue Service		
+037	South Yorkshire Fire and Rescue Service		
+038	Staffordshire Fire and Rescue Service		
+039	Suffolk Fire and Rescue Service		
+040	Surrey Fire and Rescue Service		
+041	Tyne and Wear Fire and Rescue Service		
+042	Warwickshire Fire and Rescue Service		
+043	West Midlands Fire and Rescue Service		
+044	West Sussex Fire and Rescue Service		
+045	West Yorkshire Fire and Rescue Service		

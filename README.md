@@ -2,6 +2,10 @@
 
 A repository of data for registers of UK fire authorities and fire stations.
 
+On 2018-02-08 the home office published a list of fire stations on GOV.UK
+https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables.
+These haven't yet been brought into this repository.
+
 The new regulator (as of June/July 2017) is [Her Majesty's Inspectorate of
 Constabular and Fire & Rescue
 Services](https://www.justiceinspectorates.gov.uk/hmicfrs/fire-and-rescue-services/).
@@ -16,6 +20,8 @@ data](https://www.gov.uk/government/publications/fire-and-rescue-authority-procu
 
 [Chief Fire and Rescue
 Adviser](https://www.gov.uk/government/organisations/chief-fire-and-rescue-adviser-unit)
+
+[Fire Authority statistics](https://www.gov.uk/government/statistics/fire-and-rescue-authorities-operational-statistics-bulletin-for-england-2015-to-2016)
 
 * Bedforshire fire station information is held in [individual
 PDFs](https://www.bedsfire.com/AboutUs/StnComSafPlns/Pages/default.aspx).
